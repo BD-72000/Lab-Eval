@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 Hello I Am Main Devloper
-=======
 Hello World 
 I Am Second Devloper I am Doing All Changes
 
->>>>>>> Second-Dev
